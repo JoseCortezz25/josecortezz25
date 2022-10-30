@@ -5,7 +5,6 @@ A passionate frontend developer from Colombia.
 - 🌱 I’m currently learning **Nextjs and Docker**
 - ✨ I like to develop websites and apps
 
-<br>
 
 <p align="left"> <h3 align="left">Languages and Tools:</h3>
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
