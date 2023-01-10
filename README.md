@@ -1,7 +1,9 @@
-## Hi 👋, I'm Alfonso Chavarro
+## Hi stranger 👋, I'm Alfonso Chavarro
 
-A passionate frontend developer from Colombia.
+A passionate frontend developer from Colombia. 
 
+Occasionally, I like to play with Python in implementing data mining techniques. I also play with NodeJs using express.
+ 
 - 🌱 I’m currently learning **Nextjs and Docker**
 - ✨ I like to develop websites and apps
 
